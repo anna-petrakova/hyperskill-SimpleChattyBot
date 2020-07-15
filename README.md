@@ -4,4 +4,7 @@ A simple console chat bot who will try to guess your name. Introductory hyperski
 
 ## Covers
 
-Java syntax, loops, conditional, arithmetic operations.
+* Java syntax, 
+* loops, 
+* conditional, 
+* arithmetic operations.
