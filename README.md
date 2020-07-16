@@ -1,6 +1,6 @@
 # hyperskill-SimpleChattyBot
 
-A simple console chat bot who will try to guess your name. Introductory hyperskill course, covers basics of programming.
+A simple console chat bot who will try to guess your age. Introductory hyperskill course, covers basics of programming.
 
 ## Covers
 
